@@ -63,7 +63,5 @@ body {
 .laptop {
   position: static;
   display: flex;
-  align-items:center
-
-
-
+  align-items:center;
+}
